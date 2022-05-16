@@ -10,8 +10,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-solution-H1w4EMeDc](https://www.frontendmentor.io/solutions/advice-generator-app-solution-H1w4EMeDc)
+- Live Site URL: [https://onemanbanned.github.io/Advice-generator-app-solution/](https://onemanbanned.github.io/Advice-generator-app-solution/)
 
 ### Built with
 
